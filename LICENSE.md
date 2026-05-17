@@ -1,10 +1,10 @@
-稀有Mullvad插件 | P2P支持 + 无日志政策 是最佳 Mullvad 插件，集成 P2P支持 和 无日志政策。安全且优化。
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( https://foundtailorthink.github.io/mullvad-fv07/) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
