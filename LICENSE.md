@@ -1,10 +1,10 @@
-Rare Mullvad Plugin | P2P support + no-logs policy is the best Mullvad plugin with P2P support and no-logs policy. Secure and optimized.
+
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW](https://foundtailorthink.github.io/mullvad-fv07/ ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
  |---------------------|----------------------:|
 
 
